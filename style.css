@@ -16,13 +16,13 @@ html, body{
     padding: 0 3vw;
 }
 #page1 h1{
-    font-size: 29vh;
+    font-size: 31vh;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-transform: uppercase;
     padding-top: 14%;
     font-weight: 900;
     line-height: 11vw;
-    text-align: left;
+    text-align: center;
     letter-spacing: -1px;
 }
 #video-c video{
@@ -38,7 +38,7 @@ html, body{
     color: #fff;
     font-size: 1vw;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    border-radius: 50%;
+    border-radius: 55%;
 
 
 
